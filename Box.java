@@ -1,8 +1,8 @@
-class TiffinBox {
+class Box {
 	
 	static String brand = "Milton";
 
-	public static void main(String[] TiffinBox) {
+	public static void main(String[] Box) {
 		
 		System.out.println("The brand of the tiffin box is: " + brand);
 	}
